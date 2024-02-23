@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talisonruan&sho_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talisonruan&sho_icons=true&theme=gruvbox)
 </br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <div>
